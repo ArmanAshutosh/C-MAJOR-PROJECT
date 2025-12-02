@@ -1,0 +1,32 @@
+# Compiled binary files
+*.exe
+*.out
+*.o
+
+# Build directories
+/build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+
+# VS Code settings
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Generated dependencies
+*.d
